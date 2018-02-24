@@ -1,6 +1,3 @@
-# ignore visual studio project
-buildproj/
-
 # ignore any .o and .a files
 *.[oa]
 # ignore any file ending with tilde
